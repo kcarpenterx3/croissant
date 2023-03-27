@@ -5,11 +5,16 @@ body {
 }
 
 a {
-  text-decoration: none;
-  text-transform: none;
+  color: #268735;
+  font-size: larger;
 }
 
 li {
   list-style-type: none;
   display: inline-block;
+}
+
+.email {
+  color:blue;
+  text-decoration: underline;
 }
